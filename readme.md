@@ -12,7 +12,7 @@ pip install dspy-ai langchain-community pypdf
 ```
 
 You also need to have a local LLM server running via Ollama.
- 1. Install Ollama: Follow the instructions on the Ollama website.
+ 1. Install Ollama: Follow the instructions on the [Ollama website](https://ollama.com/download/windows).
  2. Pull the LLM Model: This script is configured to use Llama 3.1. Open a terminal and run:
  ```
  ollama pull llama3.1:latest
