@@ -35,5 +35,5 @@ python count_references.py
 
 ### More Info
 Some useful information about Prompt Engineering and DSPY, with a focus on mapping data.
-https://www.dbreunig.com/2025/06/10/let-the-model-write-the-prompt.html
-https://www.youtube.com/watch?v=I9ZtkgYZnOw&t
+- https://www.dbreunig.com/2025/06/10/let-the-model-write-the-prompt.html
+- https://www.youtube.com/watch?v=I9ZtkgYZnOw&t
