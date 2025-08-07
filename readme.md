@@ -31,5 +31,9 @@ python count_references.py
  You can easily modify the script for your specific needs by changing the variables at the bottom of the file:
  - pdf_file_path: Change this to the path of your PDF document.
  - author_to_find: Change this to the name of the author you want to count references for.
- 
 
+
+### More Info
+Some useful information about Prompt Engineering and DSPY, with a focus on mapping data.
+https://www.dbreunig.com/2025/06/10/let-the-model-write-the-prompt.html
+https://www.youtube.com/watch?v=I9ZtkgYZnOw&t
