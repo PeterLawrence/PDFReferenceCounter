@@ -4,7 +4,7 @@ This project provides a Python script that counts the number of references to a 
 
 ## Core Concepts
 - Hybrid LLM Coding: This approach combines the strengths of large language models (LLMs) and traditional code. The LLM is used for "fuzzy" tasks that require natural language understanding (like parsing messy citation formats), while Python code is used for "rigid" tasks that require precise logic (like counting, file handling, and section identification).
-- DSPy: The DSPy framework is used to program the LLM calls. It allows us to define clear input and output "signatures" for our tasks, making the LLM a reliable, predictable component of the overall pipeline.
+- [DSPy](https://dspy.ai/): The DSPy framework is used to program the LLM calls. It allows us to define clear input and output "signatures" for our tasks, making the LLM a reliable, predictable component of the overall pipeline.
 
 ## Getting StartedPrerequisitesYou need to have Python installed, along with the following libraries:
 ```
